@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hello, I'm Bharat Tyagi
 
-<!--
-**tyagi-bharat/tyagi-bharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am currently pursuing a **B.Tech in Aerospace Engineering** at **VIT Bhopal University**.  
+📌 Registration Number: **25BAS10090**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about **aerospace science, aviation technologies, and space exploration**.  
+My academic journey is helping me build a strong foundation in:
+
+- Aerodynamics  
+- Aircraft and propulsion systems  
+- Atmospheric science  
+- Engineering problem-solving  
+
+I enjoy learning how things fly and exploring the science behind modern aircraft and space missions.
+
+---
+
+## 💡 Interests
+
+- ✈️ Aircraft design and analysis  
+- 🚀 Space missions and exploration  
+- 🔧 Engineering simulations and tools  
+- 💻 Learning programming for engineering applications  
+
+---
+
+## 📚 Currently Learning
+
+- Fundamentals of Aerospace Engineering  
+- Programming and computational tools  
+- Physics and mathematics for engineering  
+
+---
+
+## 🌱 Goal
+
+To contribute to the field of **aerospace engineering** and be a part of innovations in **aviation and space technology**.
+
+---
+
+## 📫 Connect With Me
+
+*(You can add your LinkedIn, email, or other profiles here)*
+
+---
+
+⭐ *“Driven by curiosity, aiming for the skies and beyond.”*
